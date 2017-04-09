@@ -19,6 +19,6 @@ $(function(){
                 }
             }
         });
-        return false;
+        return false;   //不让跳转
     });
 });
